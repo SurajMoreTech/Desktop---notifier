@@ -18,7 +18,7 @@ Local web server (optional, for development)
 Installation
 Clone the repository or download the source code:
 
-git clone https://github.com/PIYUSH-JOSHI1/Desktop-notifier.git
+git clone https://github.com/SurajMoreTech/Desktop---notifier.git
 Navigate to the project directory:
 
 cd blinkalert
